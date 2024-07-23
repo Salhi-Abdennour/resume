@@ -46,7 +46,7 @@ Deploying the web application and maintaining it!
 
 ## Software development with a focus on Enterprise Resource Planning (ERP) systems. Tunisia
 
-### Samurai club<sup>2021</sup>
+### Samurai club <sup>2021</sup>
 
 **Martial arts academy Specialized in boxing and taekwondo**
 Established a local server on a Raspberry Pi 4 using a minimal Ubuntu distribution.
